@@ -9,8 +9,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/G-KSHITIJ/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0234-palindrome-linked-list](https://github.com/G-KSHITIJ/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/G-KSHITIJ/Leetcode/tree/master/0088-merge-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/G-KSHITIJ/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/G-KSHITIJ/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/G-KSHITIJ/Leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
