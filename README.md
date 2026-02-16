@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/G-KSHITIJ/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/G-KSHITIJ/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/G-KSHITIJ/Leetcode/tree/master/0136-single-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/G-KSHITIJ/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Two Pointers
 |  |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/G-KSHITIJ/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/G-KSHITIJ/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
