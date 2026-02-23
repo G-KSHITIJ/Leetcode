@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/G-KSHITIJ/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/G-KSHITIJ/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/G-KSHITIJ/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1991-find-the-middle-index-in-array](https://github.com/G-KSHITIJ/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/G-KSHITIJ/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3668-restore-finishing-order](https://github.com/G-KSHITIJ/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Two Pointers
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/G-KSHITIJ/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/G-KSHITIJ/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1991-find-the-middle-index-in-array](https://github.com/G-KSHITIJ/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## Math
 |  |
 | ------- |
