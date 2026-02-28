@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/G-KSHITIJ/Leetcode/tree/master/0796-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/G-KSHITIJ/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [1903-largest-odd-number-in-string](https://github.com/G-KSHITIJ/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/G-KSHITIJ/Leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
@@ -127,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/G-KSHITIJ/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/G-KSHITIJ/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/G-KSHITIJ/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
