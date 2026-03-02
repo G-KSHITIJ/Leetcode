@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/G-KSHITIJ/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3280-convert-date-to-binary](https://github.com/G-KSHITIJ/Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/G-KSHITIJ/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3783-mirror-distance-of-an-integer](https://github.com/G-KSHITIJ/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Enumeration
 |  |
 | ------- |
