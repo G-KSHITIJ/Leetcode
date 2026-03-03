@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/G-KSHITIJ/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/G-KSHITIJ/Leetcode/tree/master/0189-rotate-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/G-KSHITIJ/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/G-KSHITIJ/Leetcode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1903-largest-odd-number-in-string](https://github.com/G-KSHITIJ/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/G-KSHITIJ/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/G-KSHITIJ/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
