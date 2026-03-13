@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/G-KSHITIJ/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/G-KSHITIJ/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/G-KSHITIJ/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/G-KSHITIJ/Leetcode/tree/master/0392-is-subsequence) |
 | [0821-shortest-distance-to-a-character](https://github.com/G-KSHITIJ/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0876-middle-of-the-linked-list](https://github.com/G-KSHITIJ/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/G-KSHITIJ/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/G-KSHITIJ/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/G-KSHITIJ/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/G-KSHITIJ/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/G-KSHITIJ/Leetcode/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/G-KSHITIJ/Leetcode/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/G-KSHITIJ/Leetcode/tree/master/0392-is-subsequence) |
 | [0796-rotate-string](https://github.com/G-KSHITIJ/Leetcode/tree/master/0796-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/G-KSHITIJ/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/G-KSHITIJ/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
