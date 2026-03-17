@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/G-KSHITIJ/Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/G-KSHITIJ/Leetcode/tree/master/0258-add-digits) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/G-KSHITIJ/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1688-count-of-matches-in-tournament](https://github.com/G-KSHITIJ/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/G-KSHITIJ/Leetcode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1903-largest-odd-number-in-string](https://github.com/G-KSHITIJ/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/G-KSHITIJ/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/G-KSHITIJ/Leetcode/tree/master/0258-add-digits) |
+| [1688-count-of-matches-in-tournament](https://github.com/G-KSHITIJ/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2109-adding-spaces-to-a-string](https://github.com/G-KSHITIJ/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/G-KSHITIJ/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3701-compute-alternating-sum](https://github.com/G-KSHITIJ/Leetcode/tree/master/3701-compute-alternating-sum) |
