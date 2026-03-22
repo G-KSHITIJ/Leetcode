@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/G-KSHITIJ/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/G-KSHITIJ/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/G-KSHITIJ/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2706-buy-two-chocolates](https://github.com/G-KSHITIJ/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/G-KSHITIJ/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/G-KSHITIJ/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/G-KSHITIJ/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/G-KSHITIJ/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/G-KSHITIJ/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/G-KSHITIJ/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2706-buy-two-chocolates](https://github.com/G-KSHITIJ/Leetcode/tree/master/2706-buy-two-chocolates) |
 ## Linked List
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/G-KSHITIJ/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/G-KSHITIJ/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/G-KSHITIJ/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2706-buy-two-chocolates](https://github.com/G-KSHITIJ/Leetcode/tree/master/2706-buy-two-chocolates) |
 ## Bit Manipulation
 |  |
 | ------- |
