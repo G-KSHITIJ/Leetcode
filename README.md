@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/G-KSHITIJ/Leetcode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/G-KSHITIJ/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/G-KSHITIJ/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/G-KSHITIJ/Leetcode/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/G-KSHITIJ/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/G-KSHITIJ/Leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/G-KSHITIJ/Leetcode/tree/master/0260-single-number-iii) |
+| [0342-power-of-four](https://github.com/G-KSHITIJ/Leetcode/tree/master/0342-power-of-four) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/G-KSHITIJ/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/G-KSHITIJ/Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/G-KSHITIJ/Leetcode/tree/master/0258-add-digits) |
+| [0342-power-of-four](https://github.com/G-KSHITIJ/Leetcode/tree/master/0342-power-of-four) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/G-KSHITIJ/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1688-count-of-matches-in-tournament](https://github.com/G-KSHITIJ/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/G-KSHITIJ/Leetcode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
