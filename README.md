@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/G-KSHITIJ/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/G-KSHITIJ/Leetcode/tree/master/0069-sqrtx) |
+| [0172-factorial-trailing-zeroes](https://github.com/G-KSHITIJ/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/G-KSHITIJ/Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/G-KSHITIJ/Leetcode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/G-KSHITIJ/Leetcode/tree/master/0342-power-of-four) |
