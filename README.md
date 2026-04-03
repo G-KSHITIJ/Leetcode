@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/G-KSHITIJ/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1991-find-the-middle-index-in-array](https://github.com/G-KSHITIJ/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/G-KSHITIJ/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/G-KSHITIJ/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/G-KSHITIJ/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/G-KSHITIJ/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/G-KSHITIJ/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/G-KSHITIJ/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/G-KSHITIJ/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/G-KSHITIJ/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/G-KSHITIJ/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/G-KSHITIJ/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2706-buy-two-chocolates](https://github.com/G-KSHITIJ/Leetcode/tree/master/2706-buy-two-chocolates) |
 ## Linked List
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/G-KSHITIJ/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/G-KSHITIJ/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/G-KSHITIJ/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/G-KSHITIJ/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
 |  |
 | ------- |
