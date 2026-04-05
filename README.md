@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/G-KSHITIJ/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/G-KSHITIJ/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0821-shortest-distance-to-a-character](https://github.com/G-KSHITIJ/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
+| [0877-stone-game](https://github.com/G-KSHITIJ/Leetcode/tree/master/0877-stone-game) |
 | [1331-rank-transform-of-an-array](https://github.com/G-KSHITIJ/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/G-KSHITIJ/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/G-KSHITIJ/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/G-KSHITIJ/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/G-KSHITIJ/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/G-KSHITIJ/Leetcode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/G-KSHITIJ/Leetcode/tree/master/0877-stone-game) |
 ## Greedy
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/G-KSHITIJ/Leetcode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/G-KSHITIJ/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/G-KSHITIJ/Leetcode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/G-KSHITIJ/Leetcode/tree/master/0877-stone-game) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/G-KSHITIJ/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1688-count-of-matches-in-tournament](https://github.com/G-KSHITIJ/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/G-KSHITIJ/Leetcode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
@@ -277,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/G-KSHITIJ/Leetcode/tree/master/0509-fibonacci-number) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/G-KSHITIJ/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
