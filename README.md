@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/G-KSHITIJ/Leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/G-KSHITIJ/Leetcode/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/G-KSHITIJ/Leetcode/tree/master/0342-power-of-four) |
+| [0461-hamming-distance](https://github.com/G-KSHITIJ/Leetcode/tree/master/0461-hamming-distance) |
 ## Divide and Conquer
 |  |
 | ------- |
