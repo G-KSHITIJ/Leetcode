@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/G-KSHITIJ/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/G-KSHITIJ/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/G-KSHITIJ/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/G-KSHITIJ/Leetcode/tree/master/0053-maximum-subarray) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/G-KSHITIJ/Leetcode/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/G-KSHITIJ/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/G-KSHITIJ/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/G-KSHITIJ/Leetcode/tree/master/0242-valid-anagram) |
