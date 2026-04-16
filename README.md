@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/G-KSHITIJ/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/G-KSHITIJ/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/G-KSHITIJ/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2418-sort-the-people](https://github.com/G-KSHITIJ/Leetcode/tree/master/2418-sort-the-people) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/G-KSHITIJ/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/G-KSHITIJ/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/G-KSHITIJ/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/G-KSHITIJ/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/G-KSHITIJ/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/G-KSHITIJ/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2418-sort-the-people](https://github.com/G-KSHITIJ/Leetcode/tree/master/2418-sort-the-people) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/G-KSHITIJ/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2706-buy-two-chocolates](https://github.com/G-KSHITIJ/Leetcode/tree/master/2706-buy-two-chocolates) |
 ## Linked List
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/G-KSHITIJ/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/G-KSHITIJ/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/G-KSHITIJ/Leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [2418-sort-the-people](https://github.com/G-KSHITIJ/Leetcode/tree/master/2418-sort-the-people) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/G-KSHITIJ/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/G-KSHITIJ/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/G-KSHITIJ/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1935-maximum-number-of-words-you-can-type](https://github.com/G-KSHITIJ/Leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2109-adding-spaces-to-a-string](https://github.com/G-KSHITIJ/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/G-KSHITIJ/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2418-sort-the-people](https://github.com/G-KSHITIJ/Leetcode/tree/master/2418-sort-the-people) |
 | [3280-convert-date-to-binary](https://github.com/G-KSHITIJ/Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3340-check-balanced-string](https://github.com/G-KSHITIJ/Leetcode/tree/master/3340-check-balanced-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/G-KSHITIJ/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
