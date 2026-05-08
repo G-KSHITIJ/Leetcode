@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/G-KSHITIJ/Leetcode/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/G-KSHITIJ/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/G-KSHITIJ/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/G-KSHITIJ/Leetcode/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/G-KSHITIJ/Leetcode/tree/master/0704-binary-search) |
 | [0821-shortest-distance-to-a-character](https://github.com/G-KSHITIJ/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0860-lemonade-change](https://github.com/G-KSHITIJ/Leetcode/tree/master/0860-lemonade-change) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/G-KSHITIJ/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/G-KSHITIJ/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/G-KSHITIJ/Leetcode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/G-KSHITIJ/Leetcode/tree/master/0561-array-partition) |
 | [1331-rank-transform-of-an-array](https://github.com/G-KSHITIJ/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/G-KSHITIJ/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/G-KSHITIJ/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/G-KSHITIJ/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/G-KSHITIJ/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/G-KSHITIJ/Leetcode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/G-KSHITIJ/Leetcode/tree/master/0561-array-partition) |
 | [0860-lemonade-change](https://github.com/G-KSHITIJ/Leetcode/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/G-KSHITIJ/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/G-KSHITIJ/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/G-KSHITIJ/Leetcode/tree/master/0561-array-partition) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/G-KSHITIJ/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Backtracking
 |  |
