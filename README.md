@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/G-KSHITIJ/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/G-KSHITIJ/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/G-KSHITIJ/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0049-group-anagrams](https://github.com/G-KSHITIJ/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/G-KSHITIJ/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/G-KSHITIJ/Leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/G-KSHITIJ/Leetcode/tree/master/0075-sort-colors) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/G-KSHITIJ/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/G-KSHITIJ/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/G-KSHITIJ/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/G-KSHITIJ/Leetcode/tree/master/0242-valid-anagram) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/G-KSHITIJ/Leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/G-KSHITIJ/Leetcode/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/G-KSHITIJ/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/G-KSHITIJ/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/G-KSHITIJ/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/G-KSHITIJ/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/G-KSHITIJ/Leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/G-KSHITIJ/Leetcode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/G-KSHITIJ/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/G-KSHITIJ/Leetcode/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/G-KSHITIJ/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/G-KSHITIJ/Leetcode/tree/master/0242-valid-anagram) |
