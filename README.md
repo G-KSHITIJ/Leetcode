@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/G-KSHITIJ/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/G-KSHITIJ/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/G-KSHITIJ/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0507-perfect-number](https://github.com/G-KSHITIJ/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/G-KSHITIJ/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/G-KSHITIJ/Leetcode/tree/master/0877-stone-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/G-KSHITIJ/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
