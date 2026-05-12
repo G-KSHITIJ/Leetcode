@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/G-KSHITIJ/Leetcode/tree/master/2418-sort-the-people) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/G-KSHITIJ/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/G-KSHITIJ/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/G-KSHITIJ/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/G-KSHITIJ/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2706-buy-two-chocolates](https://github.com/G-KSHITIJ/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/G-KSHITIJ/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/G-KSHITIJ/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2109-adding-spaces-to-a-string](https://github.com/G-KSHITIJ/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/G-KSHITIJ/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2553-separate-the-digits-in-an-array](https://github.com/G-KSHITIJ/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3174-clear-digits](https://github.com/G-KSHITIJ/Leetcode/tree/master/3174-clear-digits) |
 | [3701-compute-alternating-sum](https://github.com/G-KSHITIJ/Leetcode/tree/master/3701-compute-alternating-sum) |
 ## Binary Search
