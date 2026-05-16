@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/G-KSHITIJ/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/G-KSHITIJ/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3794-reverse-string-prefix](https://github.com/G-KSHITIJ/Leetcode/tree/master/3794-reverse-string-prefix) |
+| [3884-first-matching-character-from-both-ends](https://github.com/G-KSHITIJ/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Sorting
 |  |
 | ------- |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3340-check-balanced-string](https://github.com/G-KSHITIJ/Leetcode/tree/master/3340-check-balanced-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/G-KSHITIJ/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3794-reverse-string-prefix](https://github.com/G-KSHITIJ/Leetcode/tree/master/3794-reverse-string-prefix) |
+| [3884-first-matching-character-from-both-ends](https://github.com/G-KSHITIJ/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Prefix Sum
 |  |
 | ------- |
