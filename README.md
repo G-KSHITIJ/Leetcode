@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/G-KSHITIJ/Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/G-KSHITIJ/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/G-KSHITIJ/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/G-KSHITIJ/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/G-KSHITIJ/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/G-KSHITIJ/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/G-KSHITIJ/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/G-KSHITIJ/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/G-KSHITIJ/Leetcode/tree/master/2544-alternating-digit-sum) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/G-KSHITIJ/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/G-KSHITIJ/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3280-convert-date-to-binary](https://github.com/G-KSHITIJ/Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/G-KSHITIJ/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/G-KSHITIJ/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/G-KSHITIJ/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/G-KSHITIJ/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3174-clear-digits](https://github.com/G-KSHITIJ/Leetcode/tree/master/3174-clear-digits) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/G-KSHITIJ/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3701-compute-alternating-sum](https://github.com/G-KSHITIJ/Leetcode/tree/master/3701-compute-alternating-sum) |
 ## Binary Search
 |  |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/G-KSHITIJ/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/G-KSHITIJ/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Bucket Sort
 |  |
 | ------- |
