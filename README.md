@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/G-KSHITIJ/Leetcode/tree/master/0561-array-partition) |
 | [0860-lemonade-change](https://github.com/G-KSHITIJ/Leetcode/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/G-KSHITIJ/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/G-KSHITIJ/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/G-KSHITIJ/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1903-largest-odd-number-in-string](https://github.com/G-KSHITIJ/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/G-KSHITIJ/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/G-KSHITIJ/Leetcode/tree/master/0796-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/G-KSHITIJ/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/G-KSHITIJ/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/G-KSHITIJ/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/G-KSHITIJ/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1903-largest-odd-number-in-string](https://github.com/G-KSHITIJ/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/G-KSHITIJ/Leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/G-KSHITIJ/Leetcode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/G-KSHITIJ/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/G-KSHITIJ/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/G-KSHITIJ/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/G-KSHITIJ/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/G-KSHITIJ/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
