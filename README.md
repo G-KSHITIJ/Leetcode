@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/G-KSHITIJ/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/G-KSHITIJ/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/G-KSHITIJ/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/G-KSHITIJ/Leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3794-reverse-string-prefix](https://github.com/G-KSHITIJ/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/G-KSHITIJ/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Sorting
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3340-check-balanced-string](https://github.com/G-KSHITIJ/Leetcode/tree/master/3340-check-balanced-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/G-KSHITIJ/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/G-KSHITIJ/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/G-KSHITIJ/Leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3794-reverse-string-prefix](https://github.com/G-KSHITIJ/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/G-KSHITIJ/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Prefix Sum
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/G-KSHITIJ/Leetcode/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/G-KSHITIJ/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3701-compute-alternating-sum](https://github.com/G-KSHITIJ/Leetcode/tree/master/3701-compute-alternating-sum) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/G-KSHITIJ/Leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Binary Search
 |  |
 | ------- |
