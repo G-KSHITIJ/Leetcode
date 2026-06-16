@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/G-KSHITIJ/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/G-KSHITIJ/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/G-KSHITIJ/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/G-KSHITIJ/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/G-KSHITIJ/Leetcode/tree/master/3174-clear-digits) |
 ## Recursion
 |  |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/G-KSHITIJ/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/G-KSHITIJ/Leetcode/tree/master/2418-sort-the-people) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/G-KSHITIJ/Leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/G-KSHITIJ/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/G-KSHITIJ/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/G-KSHITIJ/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/G-KSHITIJ/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/G-KSHITIJ/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/G-KSHITIJ/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/G-KSHITIJ/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/G-KSHITIJ/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/G-KSHITIJ/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3174-clear-digits](https://github.com/G-KSHITIJ/Leetcode/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/G-KSHITIJ/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
