@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/G-KSHITIJ/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/G-KSHITIJ/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2574-left-and-right-sum-differences](https://github.com/G-KSHITIJ/Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/G-KSHITIJ/Leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/G-KSHITIJ/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2706-buy-two-chocolates](https://github.com/G-KSHITIJ/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/G-KSHITIJ/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/G-KSHITIJ/Leetcode/tree/master/2418-sort-the-people) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/G-KSHITIJ/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/G-KSHITIJ/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/G-KSHITIJ/Leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/G-KSHITIJ/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/G-KSHITIJ/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/G-KSHITIJ/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/G-KSHITIJ/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/G-KSHITIJ/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/G-KSHITIJ/Leetcode/tree/master/0877-stone-game) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/G-KSHITIJ/Leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
 ## Greedy
 |  |
 | ------- |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/G-KSHITIJ/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/G-KSHITIJ/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/G-KSHITIJ/Leetcode/tree/master/2418-sort-the-people) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/G-KSHITIJ/Leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/G-KSHITIJ/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/G-KSHITIJ/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/G-KSHITIJ/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
