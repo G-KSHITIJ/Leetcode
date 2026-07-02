@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/G-KSHITIJ/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/G-KSHITIJ/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/G-KSHITIJ/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1572-matrix-diagonal-sum](https://github.com/G-KSHITIJ/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/G-KSHITIJ/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/G-KSHITIJ/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/G-KSHITIJ/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -508,4 +509,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/G-KSHITIJ/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/G-KSHITIJ/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
