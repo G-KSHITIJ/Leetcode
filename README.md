@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/G-KSHITIJ/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/G-KSHITIJ/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/G-KSHITIJ/Leetcode/tree/master/0055-jump-game) |
+| [0074-search-a-2d-matrix](https://github.com/G-KSHITIJ/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/G-KSHITIJ/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/G-KSHITIJ/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/G-KSHITIJ/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/G-KSHITIJ/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/G-KSHITIJ/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/G-KSHITIJ/Leetcode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/G-KSHITIJ/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/G-KSHITIJ/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/G-KSHITIJ/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/G-KSHITIJ/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -502,4 +504,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/G-KSHITIJ/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/G-KSHITIJ/Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/G-KSHITIJ/Leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
