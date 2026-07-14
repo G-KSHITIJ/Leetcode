@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/G-KSHITIJ/Leetcode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/G-KSHITIJ/Leetcode/tree/master/0877-stone-game) |
 | [1051-height-checker](https://github.com/G-KSHITIJ/Leetcode/tree/master/1051-height-checker) |
+| [1089-duplicate-zeros](https://github.com/G-KSHITIJ/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1331-rank-transform-of-an-array](https://github.com/G-KSHITIJ/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/G-KSHITIJ/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/G-KSHITIJ/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/G-KSHITIJ/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0876-middle-of-the-linked-list](https://github.com/G-KSHITIJ/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/G-KSHITIJ/Leetcode/tree/master/0917-reverse-only-letters) |
+| [1089-duplicate-zeros](https://github.com/G-KSHITIJ/Leetcode/tree/master/1089-duplicate-zeros) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/G-KSHITIJ/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/G-KSHITIJ/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/G-KSHITIJ/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
