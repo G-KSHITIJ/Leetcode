@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/G-KSHITIJ/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1833-maximum-ice-cream-bars](https://github.com/G-KSHITIJ/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/G-KSHITIJ/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/G-KSHITIJ/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/G-KSHITIJ/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/G-KSHITIJ/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/G-KSHITIJ/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/G-KSHITIJ/Leetcode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/G-KSHITIJ/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/G-KSHITIJ/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/G-KSHITIJ/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/G-KSHITIJ/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/G-KSHITIJ/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/G-KSHITIJ/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/G-KSHITIJ/Leetcode/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/G-KSHITIJ/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/G-KSHITIJ/Leetcode/tree/master/2427-number-of-common-factors) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/G-KSHITIJ/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/G-KSHITIJ/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
