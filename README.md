@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/G-KSHITIJ/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/G-KSHITIJ/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/G-KSHITIJ/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0119-pascals-triangle-ii](https://github.com/G-KSHITIJ/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/G-KSHITIJ/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/G-KSHITIJ/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/G-KSHITIJ/Leetcode/tree/master/0137-single-number-ii) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/G-KSHITIJ/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/G-KSHITIJ/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/G-KSHITIJ/Leetcode/tree/master/0055-jump-game) |
+| [0119-pascals-triangle-ii](https://github.com/G-KSHITIJ/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/G-KSHITIJ/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/G-KSHITIJ/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/G-KSHITIJ/Leetcode/tree/master/0392-is-subsequence) |
